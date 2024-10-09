@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm MD. Maksudur Rahman. A Passionate competitive programmer with a knack for solving complex problems. Always up for a coding challenge!<br>🔭 I’m currently working on problem solving and personal project.<br>🌱 I’m currently learning I am currently learning to tackle complex problems and solve them.<br>📧maksudurrahman.avi7@gmail.com
 
-<I>codeforces : </I>    https://codeforces.com/profile/gin_spirit <br>
+<I>codeforces : </I>    https://codeforces.com/profile/upliftingwhiffle <br>
 <I>HackerRank : </I>    https://www.hackerrank.com/gin_spirit
 
 ## 🌐 Socials:
